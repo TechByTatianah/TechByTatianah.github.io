@@ -1,0 +1,13 @@
+body {
+    background-color: lightcyan;
+}
+header {
+    text-align: center;
+    background: url('https://lh3.googleusercontent.com/d/1JQkppa4z5BVPiFYehW9Lrg2kvAC0SF3Q');
+    background-size: cover;
+    color: White;
+  }
+h2 {
+    font-family: fantasy;
+    text-align: center;
+}
